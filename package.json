@@ -1,0 +1,14 @@
+{
+  "name": "cours_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^12.2.0"
+  }
+}
